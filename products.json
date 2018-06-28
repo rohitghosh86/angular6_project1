@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Coat",
+      "color": "White",
+      "id": 5
+    },
+    {
+      "name": "T-shirt",
+      "color": "Red",
+      "id": 6
+    },
+    {
+      "name": "Jeans",
+      "color": "Blue",
+      "id": 7
+    }
+  ]
+}
